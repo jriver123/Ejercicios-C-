@@ -1,2 +1,2 @@
 # Ejercicios-C#
-En la carpeta se encuentran los 3 ejercicios asignados, dos elaborados en clase y uno de Suma y Multiplicación de Arreglos.
+En la carpeta se encuentran los 4 ejercicios asignados en clase, elaborados por Jonathan Rivera Guido
